@@ -1,3 +1,5 @@
+package IfElse;
+
 import java.util.Scanner;
 
 //Evalua si eres mayor o menor de edad y te da un mensaje especial si tienes mas de 65 años.
