@@ -12,7 +12,8 @@ public class Discoteca {
         if (edad >= 18 && edad < 65){
             System.out.println("Tienes "+edad+ " Y eres mayor de edad!");
         } else if (edad >= 65){
-            System.out.println("Tienes "+edad+ " Y te felicito por tener espiritu joven!");
+            System.out.println("Tienes "+edad+ " Y te felicito por tener espiritu joven!");{
+            }
         } else
             System.out.println("Tienes "+edad+ " Y eres menor de edad!");
     }
