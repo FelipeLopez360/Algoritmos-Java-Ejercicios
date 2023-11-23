@@ -1,3 +1,5 @@
+package SwitchCase;
+
 import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
