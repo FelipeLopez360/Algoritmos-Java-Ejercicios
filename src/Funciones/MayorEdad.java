@@ -9,7 +9,8 @@ public class MayorEdad {
 
         int edad = scanner.nextInt();
 
-        if (edad >=18 && edad < 54){
+
+        if (mayorEdad(edad)){
             System.out.println("Tienes " +edad+ " años de edad y eres un adulto!");
         } else if (edad >= 55) {
             System.out.println("Tienes " +edad+ " años de edad y eres un adulto mayor!");
